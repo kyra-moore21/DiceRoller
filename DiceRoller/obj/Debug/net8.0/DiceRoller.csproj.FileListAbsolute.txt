@@ -1,0 +1,14 @@
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.exe
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.deps.json
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.runtimeconfig.json
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.dll
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.pdb
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.AssemblyInfoInputs.cache
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.AssemblyInfo.cs
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.dll
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\refint\DiceRoller.dll
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.pdb
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.genruntimeconfig.cache
+C:\Users\kyram\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\ref\DiceRoller.dll
